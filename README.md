@@ -17,7 +17,7 @@ In this project, we will be performing exploratory data analysis on the dataset 
 
 
 ## Code
-Premier_League_Analysis-22.ipynb - a Jupyter notebook that contains all of the code.
+[Premier_League_Analysis-22.ipynb](https://github.com/sujeet424/English-Premier-League-Insights-In-Depth-Analysis-of-Football/blob/master/Premier_League_Analysis-22.ipynb?raw=true) - a Jupyter notebook that contains all of the code.
 
 ## Packages 
 The following were used in this project:
